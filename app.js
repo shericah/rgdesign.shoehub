@@ -24,7 +24,7 @@ const products = [
     colors: [
       {
         code: "lightgray",
-        img: "./img/jordan.png",
+        img: "./jordan.png/jordan.png",
       },
       {
         code: "green",
